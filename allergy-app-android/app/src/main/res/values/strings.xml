@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AllergyApp</string>
+    <string name="title_home">Alergeny</string>
+    <string name="title_medicine">Leki</string>
+    <string name="title_messages">Chat</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="title_add_comment">Dodaj opinię</string>
+    <string name="title_save_comment">Zapisz opinię</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ask_question_button">Zadaj pytanie specjaliście</string>
+    <string name="ask_question_general_button">Zadaj pytanie na forum</string>
+
+    <!-- Facebook app settings-->
+    <string name="facebook_app_id">1546827885712921</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">8014c3418a16d47e10f7c6d91fff7d93</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="loginWelcome">AllergyApp</string>
+    <string name="message_hint">Wpisz wiadomość</string>
+    <string name="send_button_label">Wyślij</string>
+</resources>

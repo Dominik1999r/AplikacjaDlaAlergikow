@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_home.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_medicine.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_medicines_black_24dp.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_messages.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_messages_black_24dp.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/drawable/ic_settings.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/activity_login.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/add_comment_fragment.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/allergen_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/chat_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/chat_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/chat_message_received.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/chat_message_sent.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/details_fragment.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/fragment_medicines.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/fragment_messages.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/fragment_settings.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/medicine_comment.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/layout/medicine_row.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Users/domin/OneDrive/Pulpit/AllegryApp/allergy-app-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
