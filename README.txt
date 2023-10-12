@@ -1,10 +1,8 @@
 Czytaj DominikCielicki.pdf
 
-
 Aplikacje można zainstalowac na telefonie za pomocą pliku AllergyApp.apk.
-Serwer uruchomiony jest na ogólno dostepnym serwerze zewnetrznym.
+Serwer był uruchomiony na ogólno dostepnym serwerze zewnetrznym do dnia 15.07.2021. AKTUALNIE NIE MA DOSTĘPU!    
 
-
-Do logowania się proszę wykorzystać konto testowe Facebook:
+Konto testowe Facebook:
 E-mail: adam_glypcge_konieczny@tfbnw.net
 Haslo: Haslo123!
